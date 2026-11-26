@@ -1,4 +1,4 @@
-# Pipeline de Extracción y Modelamiento regresivo aplicable a variables predictivas multifactoriales (Python)
+# Proyecto 2: Pipeline de datos y regresión para precios inmobiliarios (Python)
 
 Desarrollé un script en Python para la extracción, limpieza y preparación automatizada de datos macroeconómicos
 desde la plataforma del Banco Central de Chile.
